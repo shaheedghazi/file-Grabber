@@ -41,14 +41,14 @@ https://discord.gg/bXH3zwmHtP
 
 - open `builder.bat`
 
-<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://i.imgur.com/0l34TBS.png"></img></div>
+![image](https://github.com/Dexty0/Dexty-Grabber/assets/142938712/eed36e0d-b239-4336-bfd8-8dd8a98331d0)
 
                                                        🖼️ Pictures
- 
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal1.jpg"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal2.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal3.png"></img>
+
+ ![image](https://github.com/Dexty0/Dexty-Grabber/assets/142938712/0a070d7d-59ad-43f8-9478-4d84f8658177)
+
+![image](https://github.com/Dexty0/Dexty-Grabber/assets/142938712/421bd98a-cb0a-4fef-bbe0-6900d446247b)
+
     
 </div>
  
