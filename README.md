@@ -36,7 +36,7 @@ open builder.bat
 
 ![image](https://github.com/Dexty0/Dexty-Grabber/assets/142938712/a082361e-291c-4d09-998a-bb5f2d823583)
 
-![image](https://github.com/Dexty0/Dexty-Grabber/assets/142938712/73f63fa1-6c1e-4853-beeb-8f777c2a7682)
+
 
 
                                                   ⬇️ Setup (Manual)
