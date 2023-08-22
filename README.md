@@ -1,5 +1,6 @@
-<h1 align="center"> Creal Stealer </h1> 
-<p align= "center"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
+<h1 align="center"> Dexty Stealer </h1> 
+<p align= "center"> <kbd> <img  src="">![Moscow](https://github.com/Dexty0/Dexty-Grabber/assets/142938712/916d6134-63eb-4027-8ab0-bbcf2ad615ae)
+ </kbd><br><br>
 
 
 
