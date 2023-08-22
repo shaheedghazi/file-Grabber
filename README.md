@@ -29,6 +29,8 @@ first open install.bat
 open builder.bat
 
 ![image](https://github.com/Dexty0/Dexty-Grabber/assets/142938712/43292721-8cf6-44a9-a04e-59abd40e170d)
+
                                                    🖼️ Pictures
+
 ![image](https://github.com/Dexty0/Dexty-Grabber/assets/142938712/d8b1580a-e2fc-4363-bea1-4b0b4d0f69c3)
 
