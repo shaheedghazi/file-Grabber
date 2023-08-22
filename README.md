@@ -6,7 +6,7 @@
 
 
 
-<p align="center"><a href="(https://discord.gg/bXH3zwmHtP)" target="_blank">discord group</a>
+<p align="center"><a href="https://discord.gg/bXH3zwmHtP" target="_blank">discord group</a>
 
 
 
