@@ -1,68 +1,90 @@
-#                   Dexty-Grabber
-![Moscow](https://github.com/Dexty0/Dexty-Grabber/assets/142938712/4dc91f76-0ec9-4bac-98d3-c5a40566c2e4)
-                                
-discord: https://discord.gg/bXH3zwmHtP
+<h1 align="center"> Creal Stealer </h1> 
+<p align= "center"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
 
-                                                  🤖 Futures
-Grab Discord Token, Phone Number, E-mail and HQ Friends.
 
-Startup
 
-Discord Injection:
+<p align="center"><a href="https://t.me/CrealStealer" target="_blank">telegram group</a>
 
-Grab Browser cookies & passwords
 
-Grab specials files
-
-Grab Crypto Wallets. 🦊 Metamask, 🅰️ Atomic, 👾 Exodus, 🅱️ Binance, 💰 Coinbase, 🟡 Trust, 👻 Phantom
-
-Grab Telegram
-
-Grab Steam
-
-Grab Riot Games
-
-                                                ⬇️ Setup
-
-first open install.bat
-
-open builder.bat
-
-![image](https://github.com/Dexty0/Dexty-Grabber/assets/142938712/43292721-8cf6-44a9-a04e-59abd40e170d)
-
-                                                   🖼️ Pictures
-
-![image](https://github.com/Dexty0/Dexty-Grabber/assets/142938712/d8b1580a-e2fc-4363-bea1-4b0b4d0f69c3)
-
-![image](https://github.com/Dexty0/Dexty-Grabber/assets/142938712/a082361e-291c-4d09-998a-bb5f2d823583)
+<h2 align="center"> created by; </h1> 
+<p align="center"><a href="https://github.com/Ayhuuu" target="_blank">ayhu</a></p><p align="center"><a href="https://github.com/Art0nus" target="_blank">artonus</a></p>
 
 
 
 
-                                                  ⬇️ Setup (Manual)
 
-First paste and save your webhook address instead of "WEBHOOK HERE" in Waltuhium.py
+                                                      🤖 Futures
 
-If you use obfuscator it will be undetectable.
 
-if you have an error while installing try pip install -r requirements.txt
+- Grab Discord Token, Phone Number, E-mail and HQ Friends.
 
-Now You need to use pyinstaller to convert python file to exe.
+- Startup
 
-Open CMD and type pip install auto_py_to_exe
+- Discord Injection:
 
-And after installed python -m auto_py_to_exe
+- Grab Browser cookies & passwords
 
-Browse file Select One file and Windows Based (hide the console)
+- Grab specials files
 
-![image](https://github.com/Dexty0/Dexty-Grabber/assets/142938712/33eef572-3fdb-4038-adb2-9cfc2dc9cbe9)
+- Grab Crypto Wallets. 🦊 Metamask, 🅰️ Atomic, 👾 Exodus, 🅱️ Binance, 💰 Coinbase, 🟡 Trust, 👻 Phantom
 
-And press covert .py .exe
+- Grab Telegram
 
-                                                  ⚠️ Disclaimer
+- Grab Steam
 
-This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. Educational purpose only!
+- Grab Riot Games
 
-                                                🪪 License
+    
 
-By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
+                                                      ⬇️ Setup
+
+                                                  
+- first open `install.bat`
+
+- open `builder.bat`
+
+<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://i.imgur.com/0l34TBS.png"></img></div>
+
+                                                       🖼️ Pictures
+ 
+<div align="center">
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal1.jpg"></img> 
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal2.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal3.png"></img>
+    
+</div>
+ 
+ 
+                                                      ⬇️ Setup (Manual)
+ 
+- First paste and save your webhook address instead of `"WEBHOOK HERE"` in Creal.py
+
+- If you use obfuscator it will be undetectable.
+
+- if you have an error while installing try `pip install -r requirements.txt`
+
+- Now You need to use pyinstaller to convert python file to exe.
+
+- Open CMD and type `pip install auto_py_to_exe`
+
+- And after installed `python -m auto_py_to_exe`
+
+- Browse file Select `One file and Windows Based (hide the console)`
+
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="40%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/pyy.png"></img>
+
+- And press covert .py .exe
+
+ <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
+
+
+                                                      ⚠️ Disclaimer
+
+- This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. <bold>Educational purpose only!</bold>
+
+                                                      🪪 License
+
+- By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
+
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
