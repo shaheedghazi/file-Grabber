@@ -1,5 +1,5 @@
 <h1 align="center"> Dexty Stealer </h1> 
-<p align= "center"> <kbd> <img  src="![image](https://github.com/Dexty0/Dexty-Grabber/assets/142938712/5256faa7-61ef-4906-9d8b-0b153e7c16d4)">
+<p align= "center"> <kbd> <img  src="https://github.com/Dexty0/Dexty-Grabber/assets/142938712/5256faa7-61ef-4906-9d8b-0b153e7c16d4">
  </kbd><br><br>
 
 
