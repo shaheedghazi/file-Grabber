@@ -5,8 +5,8 @@
  </kbd><br><br>
 
 
-
-<p align="center"><a href="https://discord.gg/bXH3zwmHtP" target="_blank">discord group</a>
+discord group
+https://discord.gg/bXH3zwmHtP
 
 
 
