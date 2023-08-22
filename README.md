@@ -6,7 +6,7 @@
 
 
 
-<p align="center"><a href="https://t.me/CrealStealer" target="_blank">telegram group</a>
+<p align="center"><a href="(https://discord.gg/bXH3zwmHtP)" target="_blank">discord group</a>
 
 
 <h2 align="center"> created by; </h1> 
